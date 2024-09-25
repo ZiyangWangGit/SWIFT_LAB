@@ -45,7 +45,7 @@ This project is an iOS application designed to help users calculate mortgage pay
 6. **Back to Slider View:**
    - After using custom inputs, press the **Back to Slider** button to return to the slider controls.
    
-   - ![mortgage_calculator](https://github.com/user-attachments/assets/f0d5bfaf-eda1-4992-bd0a-a2bc442595d2)
+   - ![mortgage_calculator](https://github.com/user-attachments/assets/f0d5bfaf-eda1-4992-bd0a-a2bc442595d2)<br><br>
 ![saved_list](https://github.com/user-attachments/assets/a6a04b29-f39d-40f7-a0ba-451922c4c52c)
 
 
